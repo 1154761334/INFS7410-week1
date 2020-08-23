@@ -42,12 +42,12 @@ In more detail the standard process of IR can be described as the folloing seque
 
 Concepts:
 
-* [Documents and Collections ](source/week-1/Documents and Collections.md)
-* [Information Needs and Queries](source/week-1/Information Needs and Queries.md)
-* [Relevance](source/week-1/Determining Relevance.md)
-* [Drawback of simple matching](source/week-1/Drawback of simple matching.md) 
-* [IR Tasks](source/week-1/IR Tasks.md)
-* [Architecture of a Search Engine](source/week-1/Architecture of a Search Engine.md)
+* [Documents and Collections ](https://github.com/1154761334/INFS7410-week1/blob/master/wiki/source/week-1/Documents%20and%20Collections.md)
+* [Information Needs and Queries](https://github.com/1154761334/INFS7410-week1/blob/master/wiki/source/week-1/Information%20Needs%20and%20Queries.md)
+* [Relevance](source/week-1/https://github.com/1154761334/INFS7410-week1/blob/master/wiki/source/week-1/Determining%20Relevance.md)
+* [Drawback of simple matching](https://github.com/1154761334/INFS7410-week1/blob/master/wiki/source/week-1/Drawback%20of%20simple%20matching.md) 
+* [IR Tasks](source/week-1/https://github.com/1154761334/INFS7410-week1/blob/master/wiki/source/week-1/IR%20Tasks.md)
+* [Architecture of a Search Engine](https://github.com/1154761334/INFS7410-week1/blob/master/wiki/source/week-1/Architecture%20of%20a%20Search%20Engine.md)
 
 
 
