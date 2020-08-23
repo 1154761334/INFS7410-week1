@@ -3,7 +3,7 @@
 
 The process of Search as below:
 
-![Search - the big picture](shttps://github.com/1154761334/INFS7410-week1/blob/master/wiki/source/week-1/Search%20-%20the%20big%20picture.png)
+![Search - the big picture](https://github.com/1154761334/INFS7410-week1/blob/master/wiki/source/week-1/Search%20-%20the%20big%20picture.png)
 
 
 
