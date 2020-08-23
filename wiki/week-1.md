@@ -14,16 +14,16 @@ In this courese we will learn some technology to create a basic systern
 
 ## Week 1 Outline:
 
-### [Information Retrieval (IR)](source/week-1/Information\ Retrieval\ \(IR\).md)
+### [Information Retrieval (IR)](https://github.com/1154761334/INFS7410-week1/blob/master/wiki/source/week-1/Information%20Retrieval%20(IR).md)
 
 Information retrieval (IR) is the activity of obtaining information system resources that are relevant to an information need from a collection of those resources. Searches can be based on full-text or other content-based indexing. Information retrieval is the science of searching for information in a document, searching for documents themselves, and also searching for the metadata that describes data, and for databases of texts, images or sounds.
 
 
-### [Search Engines](source/week-1/Type\ of\ Search\ Engines.md)
+### [Search Engines](https://github.com/1154761334/INFS7410-week1/blob/master/wiki/source/week-1/Type%20of%20Search%20Engines.md)
 
 A search engine is a complex software system that is designed to carry out search  which means to search the information in a systematic way for particular information specified in a textual web search query. 
 
-### [Standard process of IR](source/week-1/Documents and Collections.md)
+### [Standard process of IR](https://github.com/1154761334/INFS7410-week1/blob/master/wiki/source/week-1/Documents%20and%20Collections.md)
 In more detail the standard process of IR can be described as the folloing sequence of steps:
 
 1. Start with an information need,user input a **Query**
