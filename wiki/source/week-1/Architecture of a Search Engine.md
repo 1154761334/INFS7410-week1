@@ -1,6 +1,6 @@
 # Architecture of a Search Engine
 
-##Search
+## Search
 The process of Search as below:
 
 Stage 1: Initiation
@@ -23,14 +23,14 @@ In the sixth and final stage, search closure, the individual has completed the i
 The total process as figure below:
 ![Search - the big picture](https://github.com/1154761334/INFS7410-week1/blob/master/wiki/source/week-1/Search%20-%20the%20big%20picture.png)
 
-##Indexing
+## Indexing
 Indexing is the act of describing or classifying a document by index terms or other symbols in order to indicate what the document is about, to summarize its content or to increase its findability. In other words, it is about identifying and describing the subject of documents. Indexes are constructed, separately, on three distinct levels: terms in a document such as a book; objects in a collection such as a library; and documents (such as books and articles) within a field of knowledge.
 The process of indexing as below:
 
 ![The indexing process](https://github.com/1154761334/INFS7410-week1/blob/master/wiki/source/week-1/The%20indexing%20process.png)
 
 
-##Querying process
+## Querying process
 
 The Querying step is for search engines to understand what kind of information the user is looking for.
 
@@ -42,6 +42,8 @@ The total process of querying process as show in below:
 
 
 ![The querying process](https://github.com/1154761334/INFS7410-week1/blob/master/wiki/source/week-1/The%20querying%20process.png)
+
+## Architecture of Google
 
 The Architecture of Google as show in below:
 
