@@ -44,9 +44,9 @@ Concepts:
 
 * [Documents and Collections ](https://github.com/1154761334/INFS7410-week1/blob/master/wiki/source/week-1/Documents%20and%20Collections.md)
 * [Information Needs and Queries](https://github.com/1154761334/INFS7410-week1/blob/master/wiki/source/week-1/Information%20Needs%20and%20Queries.md)
-* [Relevance](source/week-1/https://github.com/1154761334/INFS7410-week1/blob/master/wiki/source/week-1/Determining%20Relevance.md)
+* [Relevance](https://github.com/1154761334/INFS7410-week1/blob/master/wiki/source/week-1/Determining%20Relevance.md)
 * [Drawback of simple matching](https://github.com/1154761334/INFS7410-week1/blob/master/wiki/source/week-1/Drawback%20of%20simple%20matching.md) 
-* [IR Tasks](source/week-1/https://github.com/1154761334/INFS7410-week1/blob/master/wiki/source/week-1/IR%20Tasks.md)
+* [IR Tasks](https://github.com/1154761334/INFS7410-week1/blob/master/wiki/source/week-1/IR%20Tasks.md)
 * [Architecture of a Search Engine](https://github.com/1154761334/INFS7410-week1/blob/master/wiki/source/week-1/Architecture%20of%20a%20Search%20Engine.md)
 
 
